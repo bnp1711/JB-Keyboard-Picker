@@ -67,7 +67,7 @@ Screenshot
 About the developer
 -------------------
 
-If you like this control, [follow @bnp1711 on twitter] or [http://www.facebook.com/it4ufriends] on Facebook and let me know!
+If you like this control, [follow @bnp1711 on twitter] or [http://www.facebook.com/its4ufriends] on Facebook and let me know!
 
 
 License
