@@ -60,8 +60,9 @@ You can get the Selected value with:
 Screenshot
 ----------
 
-![JBKeyboardPicker being used as a keyboard input](example.jpg?raw=true)
-
+<p align="center">
+  <img src="example.jpg?raw=true">
+</p>
 
 About the developer
 -------------------
